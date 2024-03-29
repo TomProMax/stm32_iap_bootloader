@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "ymodem.h": "c",
+        "main.h": "c",
+        "dma.h": "c",
+        "iap_bootloader.h": "c",
+        "flash.h": "c",
+        "rtc.h": "c"
+    }
+}
